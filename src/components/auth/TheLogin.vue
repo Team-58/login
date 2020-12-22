@@ -1,6 +1,6 @@
 <template>
 
-  <div class="container mt-5 col-4" >
+  <div class="container mt-5 col-3" >
     <form>
       <div class="form-group">
         <label for="exampleInputEmail1">Correo electronico</label>
